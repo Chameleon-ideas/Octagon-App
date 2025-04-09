@@ -1,0 +1,7 @@
+enum ChatRoomType{
+  private,group
+}
+
+
+
+
